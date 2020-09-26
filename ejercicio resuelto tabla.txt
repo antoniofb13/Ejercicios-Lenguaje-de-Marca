@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <meta charset="utf-8">
+  <title>Ejercicio resuelto</title>
+ </head>
+ <body>
+  <table align="center" cellpadding="5" border="1">
+   <tr align="center">
+    <td></td>
+    <td>Lunes</td>
+    <td>Martes</td>
+    <td>Miercoles</td>
+    <td>Jueves</td>
+    <td>Viernes</td>
+   </tr>
+   <tr>
+    <td>08:00-09:00</td>
+    <td bgcolor="grey" align="center">LMSG1<br>Alex</td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+   </tr>
+   <tr>
+    <td>09:00-10:00</td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+   </tr>
+   <tr>
+    <td>10:00-11:00</td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+   </tr>
+   <tr>
+    <td>11:30-12:30</td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+   </tr>
+   <tr>
+    <td>12:30-13:30</td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+   </tr>
+   <tr>
+    <td>13:30-14:30</td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+    <td bgcolor="grey"></td>
+   </tr>
+  </table>
+ </body>
+</html>
+  
+

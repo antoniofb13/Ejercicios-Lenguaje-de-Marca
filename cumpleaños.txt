@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <meta charset="utf-8">
+  <title>Cumpleaños</title>
+ </head>
+ <body>
+  <table align="center" border="1">
+   <tr>
+    <td rowspan=4><h1>Lista de amigos</h1></td>
+   <tr>
+    <td>
